@@ -1,0 +1,10 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jamie Dixon <jamie@jamie-dixon.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.16.4"
+  }
+}
